@@ -1,2 +1,12 @@
 h1{
 	text-align:center;}
+header figure img{
+     width : 600px;
+	 height : 400px;
+	 float:center;
+}
+
+
+header p {
+	text-align:center;
+}
